@@ -23,3 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 *.iml
+/.idea/
+/node_modules/
